@@ -65,5 +65,3 @@ There are multiple places you can share your solution:
 
 
 **Have fun building!** 🚀
-
-# qr-code-component-main
